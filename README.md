@@ -269,8 +269,13 @@ If you wish to contribute to this project, please follow these guidelines:
 
 4. Submit a pull request to the main branch of the original repository.
 
-## License
-This project is licensed under the [License Name]. Refer to the LICENSE file for more details.
+# Licensing Information
+
+This aquatic simulator project is part of a larger initiative known as Recycling Rush. Recycling Rush encompasses the development and training of an autonomous aquatic device for lentil detection and pathfinding. The simulator serves as a crucial component for testing, training, and evaluating models in various modes.
+
+Please note that the .pt models used in this simulator are integral to the original Recycling Rush project and are not directly associated with the aquatic simulator. They are employed here for testing purposes within the simulator context. For more detailed information about the models and the constructed robot, refer to the  [Recycling Rush repository](https://github.com/EdwinTSalcedo/RecyclingRush).
+
+
 
 ## Contact
 For questions or comments, you can reach out to the development team:
