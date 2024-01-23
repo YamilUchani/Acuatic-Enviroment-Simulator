@@ -2,6 +2,9 @@
 
 Last Updated: December 19th, 2023
 
+**Note:** This program is designed to be run exclusively on Windows operating systems.
+
+
 ## Table of Contents
 <div align="center" style="background-color: #6495ED; padding: 10px;">
   <a href="#description" style="color: #FF00FF;"><b>Description</b></a> |
