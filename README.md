@@ -149,9 +149,13 @@ The self-driving environment is set in an aquatic setting with various elements 
 - **Velocity:** Shows the speed of the boat at the specific moment. The velocity information is also included in the image title.
 
 <p align="center">
+  
   ![SelfDriving](gifs/SelfDriving.gif)
+  
 </p>
+
 <p align="center">
+  
   <i>Self-driving environment</i>
 </p>
 
@@ -170,10 +174,13 @@ The validation environment is designed to simulate a port in the aquatic lake, r
 - **Down:** Adjusts the camera to face downwards.
 
 <p align="center">
+  
   ![Validation](gifs/Validation.gif)
+  
 </p>
 
 <p align="center">
+  
   <i>Validation environment</i>
 </p>
 
@@ -206,10 +213,12 @@ The evaluation environment is designed for model testing and stereo camera usage
   - **Modality 4:** Incorporates the duckweed detection model and uses a stereo camera to determine obstacles to avoid.
 
 <p align="center">
+  
   ![Evaluation](gifs/Evaluation.gif)
 </p>
 
 <p align="center">
+  
   <i>Evaluation environment</i>
 </p>
 
